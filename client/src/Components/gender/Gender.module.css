@@ -1,0 +1,51 @@
+.gender{
+    margin-top: 5rem;
+    height: 40vh;
+    font-size: 20px;
+    display: grid;
+    grid-gap: 2rem;
+    background: #DDC6B6;
+    grid-template-columns: repeat(3,1fr);
+    padding: 2rem 2rem;
+}
+
+.gender .gen{
+    border-radius: 5px;
+    position: relative;
+    border: 1px solid #252223;
+    width: 60vh;
+    height: 32vh;
+    overflow: hidden;
+}
+
+.gender .gen::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.63);
+    height: 100%;
+    width: 100%;
+}
+
+.gender .gen:hover img{
+    scale: 1.2;
+    transition: all 0.2s ease-in-out;
+}
+
+.gender .gen img{
+    height: 100%;
+    width: 100%;
+}
+
+.gender .gen p{
+    z-index: 1;
+    position: absolute;
+    top: 40%;
+    font-size: 30px;
+    color: #eadbd1;
+    border-bottom: 2px solid #DDC6B6;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 25%;
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "/src/pages/imgs/recent1.jpg",
+        "name":"EONE Bradley Canvas",
+        "meta":"Rolex Submariner 50 Anniversary “Kermit” Stainless Steel 40mm (16610LV)",
+        "price":46000
+    },
+
+    {
+        "id": 2,
+        "img": "/src/pages/imgs/recent2.jpg", 
+        "name":"BERING Ceramic",
+        "meta":"MOONWATCH OMEGA CO-AXIAL CHRONOGRAPH 44.25 MM",
+        "price":26300
+    },
+
+    {
+        "id": 3,
+        "img": "/src/pages/imgs/recent3.jpg",
+        "name":"BOSS Cloud Analog",
+        "meta":"TAG HEUER AQUARACER BLUE DIAL MEN WATCHWAY101C.BA0746",
+        "price":23900
+    },
+
+    {
+        "id": 4,
+        "img": "/src/pages/imgs/recent4.jpg", 
+        "name":"BEWELL Stainless Steel",
+        "meta":"Patek Philippe Celestial 6102R-001",
+        "price":21999
+    },
+
+    {
+        "id": 5,
+        "img": "/src/pages/imgs/recent5.jpg", 
+        "name":"BEWELL Black",
+        "meta":"Men's Eco-Drive AT4007-54E Atomic Calendar Steel Watch",
+        "price":17499
+    },
+    {
+        "id": 6,
+        "img": "/src/pages/imgs/recent6.jpg", 
+        "name":"Armani Exchange",
+        "meta":"timepiece features the connected Gs on canvas-like material lined with rubber on the strap",
+        "price":19000
+    },
+    {
+        "id": 7,
+        "img": "/src/pages/imgs/recent7.avif ", 
+        "name":"Carl F. Bucherer",
+        "meta":"Rose Gold Lange 1 Time Zone Watch 41.9mm",
+        "price":442210
+    },
+    {
+        "id": 8,
+        "img": "/src/pages/imgs/recent8.jpg", 
+        "name":"Octopus Kraken Vintage ",
+        "meta":"Chronograph Analog Men's Watch- SWRZ26P9",
+        "price":38000
+    }
+]

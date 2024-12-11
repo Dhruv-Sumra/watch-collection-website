@@ -1,0 +1,54 @@
+.brand{
+    background: #DDC6B6;
+    height: 91vh;
+}
+
+.b_banner{
+    top: 1rem;
+    height: 85vh;
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.b_banner::after{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.381);
+}
+
+.b_banner img{
+    width: 100%;
+    height: 100%;
+}
+
+.brands{
+    position: absolute;
+    height: 90%;
+    z-index: 2;
+    width: 90%;
+    left: 4rem;
+    top: 2rem;
+    display: grid;
+    grid-gap:1rem;
+    opacity: .8;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.brands .imgs{
+    width: 14rem;
+    height: 5rem;
+    border-radius: 3px;
+}
+
+.brands img{
+    height: 100%;
+    width: 100%;
+    border-radius: 4px;
+    background: white;
+}

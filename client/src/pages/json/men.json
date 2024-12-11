@@ -1,0 +1,87 @@
+[
+    {
+        "id" : 1,
+        "name":"Rolex Air-King",
+        "img" :"/src/pages/imgs/men1.jpg",
+        "meta":"Oyster, 40 mm, Oystersteel Waterproof to 100 metres / 330 feet",
+        "price": 560000
+    },
+    {
+        "id" : 2,
+        "name":"Rolex GMT-M II",
+        "img" :"/src/pages/imgs/men2.jpg",
+        "meta":"Oyster 40 mm acciaio Oystersteel 126710BLRO",
+        "price": 352500
+    },
+    {
+        "id" : 3,
+        "name":"Citizen eco-drive",
+        "img" :"/src/pages/imgs/men3.jpg",
+        "meta":" Citizen Eco-Drive Gents Watch Green Dial - CB5919-00X Stainless Steel with Rose Gold",
+        "price": 64900
+    },
+    {
+        "id" : 4,
+        "name":"Citizen Automatic",
+        "img" :"/src/pages/imgs/men4.jpg",
+        "meta":"Citizen Automatic Gents Watch Blue Dial - NH9130-84L E168-00M",
+        "price": 33900
+    },
+    {
+        "id" : 5,
+        "name":"TAG Heuer Formula 1",
+        "img" :"/src/pages/imgs/men5.jpg",
+        "meta":"Formula 1 43mm Quartz Chronograph Mens Watch CAZ1010.BA0842",
+        "price": 190000
+    },
+    {
+        "id" : 6,
+        "name":"TAG Heuer Aquaracer",
+        "img" :"/src/pages/imgs/men6.avif",
+        "meta":"Aquaracer 300M 41mm Quartz Mens Watch WBD1120.BB0930",
+        "price": 150000
+    },
+    {
+        "id" : 7,
+        "name":"Fossil Analog",
+        "img" :"/src/pages/imgs/men7.jpg",
+        "meta":"Analog Multicolor Dial Men's Stainless Steel Watch-ME3256",
+        "price": 25000
+    },
+    {
+        "id" : 8,
+        "name":"Fossil Townsman",
+        "img" :"/src/pages/imgs/men8.jpg",
+        "meta":"Townsman Analog Blue Dial Men's Leather Watch-ME3110",
+        "price": 20000
+    },
+    {
+        "id" : 9,
+        "name":"Titan Xylys",
+        "img" :"/src/pages/imgs/men9.webp",
+        "meta":"Quartz Chronograph Black Dial Stainless Steel",
+        "price": 47000
+    },
+    {
+        "id" : 10,
+        "name":"Titan Metal ",
+        "img" :"/src/pages/imgs/men10.webp",
+        "meta":"Mechanicals Analog Anthracite Dial Titanium  Men-NS90140YM01",
+        "price": 32000
+    },
+    {
+        "id" : 11,
+        "name":"Arnold & Son ",
+        "img" :"/src/pages/imgs/men11.jpg",
+        "meta":"Mechanicals Analog Anthracite Dial Titanium  Men-NS90140YM01",
+        "price": 216000
+    },
+    {
+        "id" : 12,
+        "name":"Arnold & Son TBTE",
+        "img" :"/src/pages/imgs/men12.jpeg",
+        "meta":"Mechanicals Analog Anthracite Dial Titanium  Men-NS90140YM01",
+        "price": 162000
+    }
+   
+]

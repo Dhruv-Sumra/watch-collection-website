@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "img": "./src/Components/Popular-watches/popular1.webp",
+        "name":"Rolex Submarine",
+        "meta":"Rolex Submariner 50 Anniversary “Kermit” Stainless Steel 40mm (16610LV)"
+    },
+
+    {
+        "id": 2,
+        "img": "./src/Components/Popular-watches/popular2.jpg", 
+        "name":"Omega SpeedMaster",
+        "meta":"MOONWATCH OMEGA CO-AXIAL CHRONOGRAPH 44.25 MM"
+    },
+
+    {
+        "id": 3,
+        "img": "./src/Components/Popular-watches/popular3.webp",
+        "name":"Tag Heuar AquaRacer",
+        "meta":"TAG HEUER AQUARACER BLUE DIAL MEN WATCHWAY101C.BA0746"
+    },
+
+    {
+        "id": 4,
+        "img": "./src/Components/Popular-watches/popular4.jpg", 
+        "name":"Patek Philippe",
+        "meta":"Patek Philippe Celestial 6102R-001"
+    },
+
+    {
+        "id": 5,
+        "img": "./src/Components/Popular-watches/popular5.jpg", 
+        "name":"Citizen Chrono ",
+        "meta":"Men's Eco-Drive AT4007-54E Atomic Calendar Steel Watch"
+    }
+]

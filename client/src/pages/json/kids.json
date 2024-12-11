@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1,
+        "name":"Spiky Rectangle",
+        "img" :"/src/pages/imgs/kid1.webp",
+        "meta":"Wrist Watch for Kids Girls & Boys | Simple School Watch | Unbreakable Silicone Strap ",
+        "price": 999
+    },
+    {
+        "id" : 2,
+        "name":"Disney Kids' W000093",
+        "img" :"/src/pages/imgs/kid2.jpg",
+        "meta":"Time Teacher Stainless Steel Watch with Black Nylon Band",
+        "price": 5580
+    },
+    {
+        "id" : 3,
+        "name":"ASTRO Kids",
+        "img" :"/src/pages/imgs/kid3.jpg",
+        "meta":"Digital Grey Dial Watch - A9935-PPRS, Grey, strap",
+        "price": 3999
+    },
+    {
+        "id" : 4,
+        "name":"Weicam",
+        "img" :"/src/pages/imgs/kid4.jpg",
+        "meta":"Girls Boys Simple Sport Watch Analog Quartz Wrisrtewatch, Black",
+        "price": 3100
+    },
+    {
+        "id" : 5,
+        "name":"Zoop Analog",
+        "img" :"/src/pages/imgs/kid5.jpg",
+        "meta":"Black Dial Unisex-Child Watch-16016PP02",
+        "price": 1525
+    },
+    {
+        "id" : 6,
+        "name":"AGRO WATCH ",
+        "img" :"/src/pages/imgs/kid6.jpg",
+        "meta":"New White Transparent Silicon Strap & Gold Dial Day & Date",
+        "price": 799
+    },
+    {
+        "id" : 7,
+        "name":"Fastrack Gambit",
+        "img" :"/src/pages/imgs/kid7.jpg",
+        "meta":"Gambit Micromotor Black Dial Black Metal Strap Analog",
+        "price": 7500
+    },
+    {
+        "id" : 8,
+        "name":"Fastrack Topicals ",
+        "img" :"/src/pages/imgs/kid8.jpg",
+        "meta":"Quartz Analog Blue Dial Silicone Strap Unisex Watch",
+        "price": 1600
+    },
+    {
+        "id" : 9,
+        "name":"Fastrack Fit Outs",
+        "img" :"/src/pages/imgs/kid9.jpg",
+        "meta":"Quartz Analog Pink Dial Metal Strap Watch For Kids",
+        "price": 3200
+    },
+    {
+        "id" : 10,
+        "name":"Fastrack Tick Tock",
+        "img" :"/src/pages/imgs/kid10.jpg",
+        "meta":"Quartz Analog Black Dial With Black Stainless Steel Strap",
+        "price": 3999
+    },
+    {
+        "id" : 11,
+        "name":"Rolex datejust",
+        "img" :"/src/pages/imgs/kids11.jpg",
+        "meta":"Quartz Analog Pink Dial Metal Strap Watch For Kids",
+        "price": 74000
+    }, 
+    {
+        "id" : 12,
+        "name":"XL new watch",
+        "img" :"/src/pages/imgs/kid12.jpeg",
+        "meta":"Quartz Analog Pink Dial Metal Strap Watch For Kids",
+        "price": 8900
+    }
+]
