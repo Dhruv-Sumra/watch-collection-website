@@ -1,0 +1,126 @@
+.log_body{
+    background: #DDC6B6;
+    height: 91vh;
+}
+
+.log_section{
+    position: relative;
+    margin: 0 auto;
+    top: 2rem;
+    border: 1px solid rgba(128, 128, 128, 0.71);
+    height: 82vh;
+    width: 90%;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.5)2px 5px 10px;
+    background-color: #252223;
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.log_img{
+    position: relative;
+    top: 2rem;
+    left: 2rem;
+    height: 90%;
+    width: 50%;
+}
+
+.log_img img{
+    position: relative;
+    top: 3rem;
+    height: 80%;
+    border-radius: 5px;
+    width: 100%;
+    filter: drop-shadow(2px 25px 10px #22222275);
+}
+
+.log{
+    position: relative;
+    height: 90%;
+    border-radius: 15px;
+    top: 2rem;
+    right: 2rem;
+    align-items: center;
+    background: #DDC6B6;
+    box-shadow: rgba(98, 98, 107, 0.541) 0px 7px 29px 0px;
+    width: 45%;
+    text-align: center;
+}
+
+.log .log_title{
+    position: absolute;
+    top: 2rem;
+    font-size: 45px;
+    font-weight: 700;
+    left: 16rem;
+}
+
+.input{
+    position: relative;
+    height: 10rem;
+    width: 60%;
+    margin: 0 auto;
+    top: 9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    
+}
+
+.input_log{
+    height: 3rem;
+    border-radius: 20px;
+    padding-left: 8.5rem;
+    color: #252223;
+    border: none;
+    background-color: rgba(170, 169, 169, 0.349);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px;
+}
+
+.input_log::placeholder{
+    color: #252525;
+}
+
+
+.input i{
+    width: 30px;
+    font-size: 25px;
+    position: relative;
+    top: 2.5rem;
+    left: 20px;
+}
+
+.login_btn{
+    position: relative;
+    width: 57.4%;
+    left: 7.8rem;
+    border-radius: 40px;
+    top: 11rem;
+    height: 4rem;
+    padding-right: 8.5rem;
+    cursor: pointer;
+}
+.login_btn button{
+    height: 85%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 25px;
+    width: 170%;
+    background: #252223;
+    color: #DDC6B6;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px;
+    border: none;
+}
+
+.login_btn button:hover{
+    background-color:  rgba(126, 123, 123, 0.567);
+    color: #252223;
+    border: 1px solid #252223;
+}
