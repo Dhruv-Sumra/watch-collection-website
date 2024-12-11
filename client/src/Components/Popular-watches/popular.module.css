@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+.popular_section{
+    position: relative;
+    top: 3rem;
+    width: 100%;
+    height: 20rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background: #262223;
+}
+
+.popular_section .popular_title{
+    position: relative;
+    border-bottom: 2px solid #252525;
+    color: #DDC6B6;
+    margin-left: 2rem;
+    width: 19rem;
+    top: 1rem;
+    left: 1rem;
+    letter-spacing: 1px;
+    font-size: 25px;
+    font-family: "SUSE", sans-serif;
+    text-transform: uppercase;
+}
+
+.popular_section .popular_title:hover{
+    color: #f3e8e1fe;
+    border-bottom: 2px solid #f3e8e1fe;
+}
+
+.popular_section a{
+    text-decoration: none;
+}
+
+.popular_section .popular_watch_cards{
+    position: relative;
+    bottom: 1.6rem;
+    width: 100%;
+    height: 13rem;  
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.popular_section .popular_watch_cards .popular_cards{
+    position: relative;
+    height: 100%;
+    width: 14rem;  
+    overflow-x: hidden;
+    border: 1px solid #DDC6B6;
+    opacity: .8;
+    overflow: hidden;
+    padding: .5rem;
+    scrollbar-width: none;
+    box-shadow: rgba(95, 94, 92, 0.35) 0px 5px 15px;
+    border-radius: 7px;
+}
+
+.popular_section .popular_cards::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.616);
+    display: block;
+    opacity: 0;
+    cursor: pointer;
+    transition: opacity 0.2s ease-in;
+   
+}
+
+.popular_section .popular_cards:hover::after{
+    opacity: 1;
+}
+
+.popular_section .popular_cards:hover .meta_data{
+    opacity: 1;
+    left: 0;
+    overflow-x: hidden;
+}
+
+.popular_section .popular_cards img{
+    width: 100%;
+    border-radius: 5px;
+    height: 100%;
+}
+
+.popular_section .popular_cards .meta_data{
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    height: 60%;
+    left: 70%;
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.popular_section .popular_cards .meta_data .watch_name{
+    position: absolute;
+    color: #DDC6B6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    top: 5px;
+    right: 5px;
+    z-index: 2;
+    font-size: 20px;
+    border-bottom: 1px solid #DDC6B6;
+}
+
+.popular_section .popular_cards .meta_data .meta_info{
+    position: absolute;
+    color: #DDC6B6;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    bottom: 5px;
+    width: 67%;
+    text-align: end;
+    right: 5px;
+    z-index: 2;
+   
+}

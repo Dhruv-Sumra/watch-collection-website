@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "img": "/src/pages/imgs/recent1.jpg",
+        "name":"EONE Bradley Canvas",
+        "meta":"Rolex Submariner 50 Anniversary “Kermit” Stainless Steel 40mm (16610LV)",
+        "price":"46,000/-"
+    },
+
+    {
+        "id": 2,
+        "img": "/src/pages/imgs/recent2.jpg", 
+        "name":"BERING Ceramic",
+        "meta":"MOONWATCH OMEGA CO-AXIAL CHRONOGRAPH 44.25 MM",
+        "price":"26,300/-"
+    },
+
+    {
+        "id": 3,
+        "img": "/src/pages/imgs/recent3.jpg",
+        "name":"BOSS Cloud Analog",
+        "meta":"TAG HEUER AQUARACER BLUE DIAL MEN WATCHWAY101C.BA0746",
+        "price":"23,900/-"
+    },
+
+    {
+        "id": 4,
+        "img": "/src/pages/imgs/recent4.jpg", 
+        "name":"BEWELL Stainless Steel",
+        "meta":"Patek Philippe Celestial 6102R-001",
+        "price":"21,999/-"
+    },
+
+    {
+        "id": 5,
+        "img": "/src/pages/imgs/recent5.jpg", 
+        "name":"BEWELL Black",
+        "meta":"Men's Eco-Drive AT4007-54E Atomic Calendar Steel Watch",
+        "price":"17,499/-"
+    }
+]

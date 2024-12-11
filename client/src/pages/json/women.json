@@ -1,0 +1,87 @@
+[
+    {
+        "id" : 1,
+        "name":"Guess Lime Crystal ",
+        "img" :"/src/pages/imgs/women1.jpg",
+        "meta":"Crystal Blue Dial Ladies Watch Item No. W1053L1 39 mm",
+        "price": 8000
+    },
+    {
+        "id" : 2,
+        "name":"Timex Easy Reader ",
+        "img" :"/src/pages/imgs/women2.png",
+        "meta":"Easy Reader Watch with Leather Strap - Silver/Black T2N525JT",
+        "price": 7500
+    },
+    {
+        "id" : 3,
+        "name":"Bulova Ladies",
+        "img" :"/src/pages/imgs/women4.jpg",
+        "meta":" Moon Phase Rubaiyat Diamond Watch 35 Millimetres Blue",
+        "price": 67000
+    },
+    {
+        "id" : 4,
+        "name":"Hamilton",
+        "img" :"/src/pages/imgs/women3.jpg",
+        "meta":" American Classic Automatic Black Dial Stainless Steel Women's Watch",
+        "price": 54000
+    },
+    {
+        "id" : 5,
+        "name":"Movado Analog",
+        "img" :"/src/pages/imgs/women5.jpg",
+        "meta":"Analog Mother of Pearl Dial Women's Watch-607322",
+        "price": 51000
+    },
+    {
+        "id" : 6,
+        "name":"Victorinox",
+        "img" :"/src/pages/imgs/women6.jpg",
+        "meta":"Stainless Steel Maverick Analog Blue Dial Women Watch-241790, Multi-Color Band",
+        "price": 63000
+    },
+    {
+        "id" : 7,
+        "name":"Fossil Analog",
+        "img" :"/src/pages/imgs/women7.webp",
+        "meta":"Analog Multicolor Dial Men's Stainless Steel Watch-ME3256",
+        "price": 25000
+    },
+    {
+        "id" : 8,
+        "name":"Diella",
+        "img" :"/src/pages/imgs/women8.jpg",
+        "meta":"Women Rectangle Dress Watch Roman Numerals Analog Watch with Date, Waterproof (Model:AD6027L)",
+        "price": 88000
+    },
+    {
+        "id" : 9,
+        "name":"Movado Rondiro",
+        "img" :"/src/pages/imgs/women9.jpg",
+        "meta":" Analog Multicolor Dial Women's Watch-606249",
+        "price": 79000
+    },
+    {
+        "id" : 10,
+        "name":"JBW",
+        "img" :"/src/pages/imgs/women10.jpg",
+        "meta":"JBW Women's Cristal 12 Diamonds",
+        "price": 72000
+    },
+    {
+        "id" : 11,
+        "name":"Citizen Eco-drive",
+        "img" :"/src/pages/imgs/women11.jpg",
+        "meta":"Eco-Drive Rose Gold-Tone Silhouette Crystal Watch",
+        "price": 32000
+    },
+    {
+        "id" : 12,
+        "name":"Bulova chronograph",
+        "img" :"/src/pages/imgs/women12.jpeg",
+        "meta":"JBW Women's Cristal 12 Diamonds",
+        "price": 18000
+    }
+    
+]
